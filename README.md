@@ -1,1 +1,1 @@
-# Klasa w Klasie
+# Klasa w Klasie C++
