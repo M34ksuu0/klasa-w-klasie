@@ -3,18 +3,18 @@ Program służy do wczytywania i wyświetlania danych klasy oraz uczniów.
 
 ●  Funkcje
 
-  ○ wczytywanie z klawiatury,
+    ○ wczytywanie z klawiatury,
   
-  ○ wczytywanie z pliku a.txt,
+    ○ wczytywanie z pliku a.txt,
   
-  ○ wyświetlanie danych.
+    ○ wyświetlanie danych.
   
 ●  Uruchomienie
 
-  ○ Wybierz:
+    ○ Wybierz:
   
-  1 – plik,
+      1 – plik,
   
-  2 – klawiatura,
+      2 – klawiatura,
   
 Program obsługuje domyślnie 2 osoby.
